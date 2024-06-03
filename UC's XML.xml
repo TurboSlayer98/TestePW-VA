@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curso>
+  <Nome>Nome do Curso</Nome>
+  <Sigla>Sigla do Curso</Sigla>
+  <UCs>
+    <UC>
+      <Nome>Nome da UC</Nome>
+      <Sigla>Sigla da UC</Sigla>
+      <Docente>
+        <Nome>Nome do Docente</Nome>
+        <Email>email@example.com</Email>
+      </Docente>
+    </UC>
+    <UC>
+      <Nome>Nome da UC 2</Nome>
+      <Sigla>Sigla da UC 2</Sigla>
+      <Docente>
+        <Nome>Nome do Docente 2</Nome>
+        <Email>email2@example.com</Email>
+      </Docente>
+    </UC>
+    </UCs>
+</Curso>

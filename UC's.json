@@ -1,0 +1,24 @@
+{
+  "Curso": {
+    "Nome": "Nome do Curso",
+    "Sigla": "Sigla do Curso",
+    "UCs": [
+      {
+        "Nome": "Nome da UC",
+        "Sigla": "Sigla da UC",
+        "Docente": {
+          "Nome": "Nome do Docente",
+          "Email": "email@example.com"
+        }
+      },
+      {
+        "Nome": "Nome da UC 2",
+        "Sigla": "Sigla da UC 2",
+        "Docente": {
+          "Nome": "Nome do Docente 2",
+          "Email": "email2@example.com"
+        }
+      }
+    ]
+  }
+}
